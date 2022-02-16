@@ -12,7 +12,7 @@ These projects are present directly under the organisation handle. These type of
 
     - They aren’t being worked on by the proposers or anyone from the organization.
     - Disregard of the organization's rules/code of conduct.
-    - Report of plagiarism or duplicate work.
+    - Report of plagiarism.
 
 - How to submit an idea?
 
